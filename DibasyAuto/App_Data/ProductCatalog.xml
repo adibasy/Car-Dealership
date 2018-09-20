@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Catalog>
+  <tool>
+
+    <code>123456789</code>
+    <name>Ford Mustang</name>
+    <description>Very fast car</description>
+
+    <company>Ford</company>
+    <price>25000.00</price>  
+  </tool>
+
+  <tool>
+    <code>123456789</code>
+    <name>Chevrolet Camero</name>
+    <description>Supper fun to drive</description>
+    <company>Chevrolet</company>
+    <price>20345.99</price>
+  </tool>
+  
+  
+  
+  
+  
+</Catalog>

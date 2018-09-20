@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DibasyModelStoreContainer" CdmEntityContainer="DibasyEntities">
+    <EntitySetMapping Name="tblCars">
+      <EntityTypeMapping TypeName="DibasyModel.tblCar">
+        <MappingFragment StoreEntitySet="tblCar">
+          <ScalarProperty Name="fldCarID" ColumnName="fldCarID" />
+          <ScalarProperty Name="fldCarMake" ColumnName="fldCarMake" />
+          <ScalarProperty Name="fldCarModel" ColumnName="fldCarModel" />
+          <ScalarProperty Name="fldCarMilage" ColumnName="fldCarMilage" />
+          <ScalarProperty Name="fldCarPrice" ColumnName="fldCarPrice" />
+          <ScalarProperty Name="fldCarYear" ColumnName="fldCarYear" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="sprGetCarByCarID" FunctionName="DibasyModel.Store.sprGetCarByCarID">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="DibasyModel.sprGetCarByCarID_Result">
+          <ScalarProperty Name="fldCarMake" ColumnName="fldCarMake" />
+          <ScalarProperty Name="fldCarModel" ColumnName="fldCarModel" />
+          <ScalarProperty Name="fldCarMilage" ColumnName="fldCarMilage" />
+          <ScalarProperty Name="fldCarYear" ColumnName="fldCarYear" />
+          <ScalarProperty Name="fldCarPrice" ColumnName="fldCarPrice" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

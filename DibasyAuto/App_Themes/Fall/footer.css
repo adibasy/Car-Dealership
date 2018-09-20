@@ -1,0 +1,19 @@
+﻿
+
+.footerArea {
+    background-color:coral;
+    text-align: center;
+    font-size: 100%;
+    font-family: Lobster;
+    padding: 1px;
+    width: 100%;
+}
+
+footer li {
+    display: inline; /*position text horizontally*/
+    padding: 20px;
+}
+
+footer a {
+    text-decoration: none; /*removes underline*/
+}

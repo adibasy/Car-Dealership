@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode id="Nav">
+  <siteMapNode title="Home" description="Default" url="~/Default.aspx" />
+  
+  <siteMapNode title="Inventory" description="Inventory" url="~/Pages/Inventory.aspx" />
+  <siteMapNode title="Special" description="Special" url="~/Pages/Special.aspx" />
+
+    <siteMapNode title="About Us" description="About Us" url="~/Pages/AboutUs.aspx" />
+    <siteMapNode title="Directions" description="Directions" url="~/Pages/Directions.aspx" />
+    <siteMapNode title="Contact Us" description="Contact Us" url="~/Pages/ContactUs.aspx" />
+    <siteMapNode title="Finance" description="Create Account" url="~/Pages/Create_Account.aspx" />
+
+  </siteMapNode>
+  
+</siteMap>

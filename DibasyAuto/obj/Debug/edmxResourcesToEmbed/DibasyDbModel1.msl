@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DibasyDBModelStoreContainer" CdmEntityContainer="DibasyDBEntities">
+    <EntitySetMapping Name="tblCars">
+      <EntityTypeMapping TypeName="DibasyDBModel.tblCar">
+        <MappingFragment StoreEntitySet="tblCar">
+          <ScalarProperty Name="fldCarPicName" ColumnName="fldCarPicName" />
+          <ScalarProperty Name="fldCarID" ColumnName="fldCarID" />
+          <ScalarProperty Name="fldCarMake" ColumnName="fldCarMake" />
+          <ScalarProperty Name="fldCarModel" ColumnName="fldCarModel" />
+          <ScalarProperty Name="fldCarMilage" ColumnName="fldCarMilage" />
+          <ScalarProperty Name="fldCarPrice" ColumnName="fldCarPrice" />
+          <ScalarProperty Name="fldCarYear" ColumnName="fldCarYear" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

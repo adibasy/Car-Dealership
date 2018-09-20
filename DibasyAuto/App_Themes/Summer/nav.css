@@ -1,0 +1,46 @@
+﻿.PrimaryNavigation {
+    width: 100%; /*Uses 100% width of the screen*/
+    height: 50px;
+    font-size: 24px;
+    /*Families: Serif Fonts, Sans-Serif Fonts, Monospace Fonts*/
+    /*font-family: "Times New Roman", Times, serif;*/
+    font-family: Tahoma, Geneva, sans-serif; /*No barbs*/
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 3px 2px 3px #333333; /*CSS3 feature*/
+    background-color: blue;
+    border-radius: 8px; /*CSS3 feature rounded edges*/
+}
+
+    .PrimaryNavigation li {
+       display: inline;
+      
+        padding: 0px;
+       
+    }
+
+    .PrimaryNavigation ul {
+        height: auto;
+        padding: 8px 0px;
+        margin: 0px;
+    }
+
+
+    /*  anchor tag */
+    .PrimaryNavigation a {
+      
+        display: inline;
+        color: #fff; /* text all channels = white*/
+        text-decoration: none; /* turn off underline */
+        font-weight: bold; /* bold the text */
+        background: blue;
+        padding: 0.25em .65em;
+        border-left: 1px solid #000; /*border left side color black */
+        border-top: 1px solid #000; /*border top side color black */
+        border-right: 1px solid Lime;
+    }
+
+        .PrimaryNavigation a:hover {
+            background: #bbb;
+        }
+

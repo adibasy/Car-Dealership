@@ -1,0 +1,12 @@
+﻿/*.period is a class, # is Identifier*/
+.TopContent {
+    background-image: url('./images/BannerImage4.PNG');
+    background-position: center;
+    background-repeat: no-repeat;
+    color: Blue; /*Text Color*/
+    background-size: cover;
+    font-size: 30px;
+    width: 100%;
+    height: 100px;
+}
+

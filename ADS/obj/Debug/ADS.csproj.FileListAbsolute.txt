@@ -1,0 +1,7 @@
+C:\Users\Abdulai\Desktop\Dibasy\ADS\bin\ADS.dll.config
+C:\Users\Abdulai\Desktop\Dibasy\ADS\bin\ADS.dll
+C:\Users\Abdulai\Desktop\Dibasy\ADS\bin\ADS.pdb
+C:\Users\Abdulai\Desktop\Dibasy\ADS\obj\Debug\ADS.csprojResolveAssemblyReference.cache
+C:\Users\Abdulai\Desktop\Dibasy\ADS\obj\Debug\ADS.csproj.CoreCompileInputs.cache
+C:\Users\Abdulai\Desktop\Dibasy\ADS\obj\Debug\ADS.dll
+C:\Users\Abdulai\Desktop\Dibasy\ADS\obj\Debug\ADS.pdb

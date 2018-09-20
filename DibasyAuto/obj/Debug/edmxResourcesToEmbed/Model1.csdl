@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DibasyModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tblCar">
+    <Key>
+      <PropertyRef Name="fldCarID" />
+    </Key>
+    <Property Name="fldCarID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="fldCarMake" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fldCarModel" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fldCarMilage" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fldCarPrice" Type="Decimal" Precision="8" Scale="2" Nullable="false" />
+    <Property Name="fldCarYear" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="DibasyEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tblCars" EntityType="Self.tblCar" />
+    <FunctionImport Name="sprGetCarByCarID" ReturnType="Collection(DibasyModel.sprGetCarByCarID_Result)">
+      <Parameter Name="fldCarID" Mode="In" Type="Int32" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="sprGetCarByCarID_Result">
+    <Property Type="String" Name="fldCarMake" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="fldCarModel" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="fldCarMilage" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="fldCarYear" Nullable="false" MaxLength="50" />
+    <Property Type="Decimal" Name="fldCarPrice" Nullable="false" Precision="8" Scale="2" />
+  </ComplexType>
+</Schema>

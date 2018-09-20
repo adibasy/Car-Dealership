@@ -1,0 +1,170 @@
+[Header]\r\n2017-10-23 20:10:14,063 [5] ERROR DibasyAuto.Pages.AboutUs login Error
+System.Xml.XmlException: Data at the root level is invalid. Line 19, position 9.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlTextReader.Read()
+   at System.Xml.XmlReader.ReadEndElement()
+   at System.Data.DataSet.ReadEndElement(XmlReader reader)
+   at System.Data.DataSet.ReadXml(XmlReader reader, Boolean denyResolving)
+   at System.Data.DataSet.ReadXml(String fileName)
+   at DibasyAuto.Pages.AboutUs.Page_Load(Object sender, EventArgs e) in c:\Users\Abdulai\Documents\Cosc484\Projects\Dibasy\DibasyAuto\Pages\AboutUs.aspx.cs:line 27
+[Footer]\r\n[Header]\r\n2017-10-23 20:10:20,360 [7] ERROR DibasyAuto.Pages.AboutUs login Error
+System.Xml.XmlException: Data at the root level is invalid. Line 19, position 9.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlTextReader.Read()
+   at System.Xml.XmlReader.ReadEndElement()
+   at System.Data.DataSet.ReadEndElement(XmlReader reader)
+   at System.Data.DataSet.ReadXml(XmlReader reader, Boolean denyResolving)
+   at System.Data.DataSet.ReadXml(String fileName)
+   at DibasyAuto.Pages.AboutUs.Page_Load(Object sender, EventArgs e) in c:\Users\Abdulai\Documents\Cosc484\Projects\Dibasy\DibasyAuto\Pages\AboutUs.aspx.cs:line 27
+[Footer]\r\n[Header]\r\n2017-10-23 20:10:21,782 [7] ERROR DibasyAuto.Pages.AboutUs login Error
+System.Xml.XmlException: Data at the root level is invalid. Line 19, position 9.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlTextReader.Read()
+   at System.Xml.XmlReader.ReadEndElement()
+   at System.Data.DataSet.ReadEndElement(XmlReader reader)
+   at System.Data.DataSet.ReadXml(XmlReader reader, Boolean denyResolving)
+   at System.Data.DataSet.ReadXml(String fileName)
+   at DibasyAuto.Pages.AboutUs.Page_Load(Object sender, EventArgs e) in c:\Users\Abdulai\Documents\Cosc484\Projects\Dibasy\DibasyAuto\Pages\AboutUs.aspx.cs:line 27
+[Footer]\r\n[Header]\r\n2017-10-23 20:10:23,939 [5] ERROR DibasyAuto.Pages.AboutUs login Error
+System.Xml.XmlException: Data at the root level is invalid. Line 19, position 9.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlTextReader.Read()
+   at System.Xml.XmlReader.ReadEndElement()
+   at System.Data.DataSet.ReadEndElement(XmlReader reader)
+   at System.Data.DataSet.ReadXml(XmlReader reader, Boolean denyResolving)
+   at System.Data.DataSet.ReadXml(String fileName)
+   at DibasyAuto.Pages.AboutUs.Page_Load(Object sender, EventArgs e) in c:\Users\Abdulai\Documents\Cosc484\Projects\Dibasy\DibasyAuto\Pages\AboutUs.aspx.cs:line 27
+[Footer]\r\n[Header]\r\n2017-10-23 20:10:31,922 [7] ERROR DibasyAuto.Pages.AboutUs login Error
+System.Xml.XmlException: Data at the root level is invalid. Line 19, position 9.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlTextReader.Read()
+   at System.Xml.XmlReader.ReadEndElement()
+   at System.Data.DataSet.ReadEndElement(XmlReader reader)
+   at System.Data.DataSet.ReadXml(XmlReader reader, Boolean denyResolving)
+   at System.Data.DataSet.ReadXml(String fileName)
+   at DibasyAuto.Pages.AboutUs.Page_Load(Object sender, EventArgs e) in c:\Users\Abdulai\Documents\Cosc484\Projects\Dibasy\DibasyAuto\Pages\AboutUs.aspx.cs:line 27
+[Header]\r\n2017-10-23 20:11:22,438 [7] ERROR DibasyAuto.Pages.AboutUs login Error
+System.Xml.XmlException: Data at the root level is invalid. Line 19, position 9.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlTextReader.Read()
+   at System.Xml.XmlReader.ReadEndElement()
+   at System.Data.DataSet.ReadEndElement(XmlReader reader)
+   at System.Data.DataSet.ReadXml(XmlReader reader, Boolean denyResolving)
+   at System.Data.DataSet.ReadXml(String fileName)
+   at DibasyAuto.Pages.AboutUs.Page_Load(Object sender, EventArgs e) in c:\Users\Abdulai\Documents\Cosc484\Projects\Dibasy\DibasyAuto\Pages\AboutUs.aspx.cs:line 27
+[Footer]\r\n[Header]\r\n2017-10-23 20:11:32,564 [5] ERROR DibasyAuto.Pages.AboutUs login Error
+System.Xml.XmlException: Data at the root level is invalid. Line 19, position 9.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlTextReader.Read()
+   at System.Xml.XmlReader.ReadEndElement()
+   at System.Data.DataSet.ReadEndElement(XmlReader reader)
+   at System.Data.DataSet.ReadXml(XmlReader reader, Boolean denyResolving)
+   at System.Data.DataSet.ReadXml(String fileName)
+   at DibasyAuto.Pages.AboutUs.Page_Load(Object sender, EventArgs e) in c:\Users\Abdulai\Documents\Cosc484\Projects\Dibasy\DibasyAuto\Pages\AboutUs.aspx.cs:line 27
+[Footer]\r\n[Header]\r\n2017-10-23 20:11:37,970 [5] ERROR DibasyAuto.Pages.AboutUs login Error
+System.Xml.XmlException: Data at the root level is invalid. Line 19, position 9.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlTextReader.Read()
+   at System.Xml.XmlReader.ReadEndElement()
+   at System.Data.DataSet.ReadEndElement(XmlReader reader)
+   at System.Data.DataSet.ReadXml(XmlReader reader, Boolean denyResolving)
+   at System.Data.DataSet.ReadXml(String fileName)
+   at DibasyAuto.Pages.AboutUs.Page_Load(Object sender, EventArgs e) in c:\Users\Abdulai\Documents\Cosc484\Projects\Dibasy\DibasyAuto\Pages\AboutUs.aspx.cs:line 27
+[Footer]\r\n[Header]\r\n2017-10-23 20:11:44,204 [7] ERROR DibasyAuto.Pages.AboutUs login Error
+System.Xml.XmlException: Data at the root level is invalid. Line 19, position 9.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlTextReader.Read()
+   at System.Xml.XmlReader.ReadEndElement()
+   at System.Data.DataSet.ReadEndElement(XmlReader reader)
+   at System.Data.DataSet.ReadXml(XmlReader reader, Boolean denyResolving)
+   at System.Data.DataSet.ReadXml(String fileName)
+   at DibasyAuto.Pages.AboutUs.Page_Load(Object sender, EventArgs e) in c:\Users\Abdulai\Documents\Cosc484\Projects\Dibasy\DibasyAuto\Pages\AboutUs.aspx.cs:line 27
+[Footer]\r\n[Header]\r\n2017-10-23 20:11:44,876 [5] ERROR DibasyAuto.Pages.AboutUs login Error
+System.Xml.XmlException: Data at the root level is invalid. Line 19, position 9.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlTextReader.Read()
+   at System.Xml.XmlReader.ReadEndElement()
+   at System.Data.DataSet.ReadEndElement(XmlReader reader)
+   at System.Data.DataSet.ReadXml(XmlReader reader, Boolean denyResolving)
+   at System.Data.DataSet.ReadXml(String fileName)
+   at DibasyAuto.Pages.AboutUs.Page_Load(Object sender, EventArgs e) in c:\Users\Abdulai\Documents\Cosc484\Projects\Dibasy\DibasyAuto\Pages\AboutUs.aspx.cs:line 27
+[Footer]\r\n[Header]\r\n2017-10-23 20:11:45,141 [7] ERROR DibasyAuto.Pages.AboutUs login Error
+System.Xml.XmlException: Data at the root level is invalid. Line 19, position 9.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlTextReader.Read()
+   at System.Xml.XmlReader.ReadEndElement()
+   at System.Data.DataSet.ReadEndElement(XmlReader reader)
+   at System.Data.DataSet.ReadXml(XmlReader reader, Boolean denyResolving)
+   at System.Data.DataSet.ReadXml(String fileName)
+   at DibasyAuto.Pages.AboutUs.Page_Load(Object sender, EventArgs e) in c:\Users\Abdulai\Documents\Cosc484\Projects\Dibasy\DibasyAuto\Pages\AboutUs.aspx.cs:line 27
+[Header]\r\n2017-11-19 16:12:11,131 [5] ERROR DibasyAuto.Pages.AboutUs login Error
+System.Xml.XmlException: Data at the root level is invalid. Line 19, position 9.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlTextReader.Read()
+   at System.Xml.XmlReader.ReadEndElement()
+   at System.Data.DataSet.ReadEndElement(XmlReader reader)
+   at System.Data.DataSet.ReadXml(XmlReader reader, Boolean denyResolving)
+   at System.Data.DataSet.ReadXml(String fileName)
+   at DibasyAuto.Pages.AboutUs.Page_Load(Object sender, EventArgs e) in c:\Users\Abdulai\Documents\Cosc484\Projects\Dibasy\DibasyAuto\Pages\AboutUs.aspx.cs:line 25
+[Footer]\r\n[Header]\r\n2017-11-19 16:12:20,809 [5] ERROR DibasyAuto.Pages.AboutUs login Error
+System.Xml.XmlException: Data at the root level is invalid. Line 19, position 9.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlTextReader.Read()
+   at System.Xml.XmlReader.ReadEndElement()
+   at System.Data.DataSet.ReadEndElement(XmlReader reader)
+   at System.Data.DataSet.ReadXml(XmlReader reader, Boolean denyResolving)
+   at System.Data.DataSet.ReadXml(String fileName)
+   at DibasyAuto.Pages.AboutUs.Page_Load(Object sender, EventArgs e) in c:\Users\Abdulai\Documents\Cosc484\Projects\Dibasy\DibasyAuto\Pages\AboutUs.aspx.cs:line 25
+[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n[Header]\r\n[Footer]\r\n

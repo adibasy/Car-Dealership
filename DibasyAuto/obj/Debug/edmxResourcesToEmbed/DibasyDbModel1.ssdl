@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DibasyDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tblCar">
+    <Key>
+      <PropertyRef Name="fldCarID" />
+    </Key>
+    <Property Name="fldCarID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="fldCarMake" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="fldCarModel" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="fldCarMilage" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="fldCarPrice" Type="decimal" Precision="8" Scale="2" Nullable="false" />
+    <Property Name="fldCarYear" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="fldCarPicName" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Function Name="sprGetCarByCarID" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="fldCarID" Type="int" Mode="In" />
+  </Function>
+  <EntityContainer Name="DibasyDBModelStoreContainer">
+    <EntitySet Name="tblCar" EntityType="Self.tblCar" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
